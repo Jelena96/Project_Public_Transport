@@ -1,0 +1,1374 @@
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.Migrations.InitialMigration.resources
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\WebApp.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\EntityFramework.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Owin.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Unity.Abstractions.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Unity.Container.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\WebGrease.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Unity.Container.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\EntityFramework.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\user\Desktop\WEB2Eli\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\WebApp.dll.config
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\WebApp.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\WebApp.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csc.exe
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csc.rsp
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csi.exe
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\csi.rsp
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\vbc.exe
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\EntityFramework.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Owin.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Cors.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Razor.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Unity.Abstractions.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Unity.Container.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\WebActivatorEx.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\WebGrease.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Razor.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Unity.Container.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\EntityFramework.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.Initial.resources
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.Line_Ticket_Station.resources
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.Other_else.resources
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.AppUser.resources
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.dll
+C:\Users\Jelena\Documents\GitHub\Web2_JGSP\WebApp\obj\Debug\WebApp.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\WebApp.dll.config
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\WebApp.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\WebApp.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\EntityFramework.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Owin.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Unity.Abstractions.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Unity.Container.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\WebGrease.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Unity.Container.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\EntityFramework.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.dll
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\WebApp.dll.config
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\WebApp.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\WebApp.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csc.exe
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csc.exe.config
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csc.rsp
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csi.exe
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csi.exe.config
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\csi.rsp
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Console.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\vbc.exe
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\vbc.rsp
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\EntityFramework.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Owin.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Cors.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Helpers.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Mvc.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Optimization.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Razor.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Unity.Abstractions.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Unity.Container.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\WebActivatorEx.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\WebGrease.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Helpers.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Mvc.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Razor.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Optimization.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Unity.Container.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\EntityFramework.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.dll
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.pdb
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.InicijalnaMigracijaAjde.resources
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\e3145-2015\Desktop\Web2_JGSP-master (1)\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.test.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.ajmsrecomoja.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.mig.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.migracija.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.pass.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.sara.resources
+C:\Users\user\Desktop\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.emailmigr.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\WebApp.dll.config
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\WebApp.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\WebApp.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\EntityFramework.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Owin.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Unity.Abstractions.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Unity.Container.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\WebGrease.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Unity.Container.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\EntityFramework.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.ajmsrecomoja.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.mig.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.migracija.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.pass.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.sara.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.emailmigr.resources
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.dll
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.pdb
+C:\Users\user\Desktop\Web2-Projekat\Web2_JGSP\WebApp\obj\Debug\WebApp.Migrations.mig1.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\WebApp.dll.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\WebApp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\WebApp.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csc.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csc.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csi.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\csi.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\vbc.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\EntityFramework.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Razor.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Unity.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Unity.Container.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\WebActivatorEx.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\WebGrease.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Razor.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Unity.Container.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\EntityFramework.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.ajmsrecomoja.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.mig.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.migracija.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.pass.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.sara.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.emailmigr.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.mig1.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.timeissuedbt.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addVerficationStatusinAppUser.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addVerficationStatusinAppUser2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addCheckInTicket.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addNonBaseTickets.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addNonBaseTickets2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.typeofpassanger.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\netstandard.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.AppContext.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.Concurrent.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.NonGeneric.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.Specialized.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ComponentModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Console.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Data.Common.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.Debug.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.Process.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.Tools.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Drawing.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Dynamic.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Globalization.Calendars.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Globalization.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Globalization.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.Compression.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.FileSystem.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.Pipes.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Linq.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Linq.Expressions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Linq.Parallel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Linq.Queryable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Http.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.NameResolution.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.NetworkInformation.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Ping.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Requests.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Security.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.Sockets.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Net.WebSockets.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ObjectModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Reflection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Reflection.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Reflection.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Resources.Reader.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Resources.ResourceManager.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Resources.Writer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Handles.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.InteropServices.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Numerics.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Claims.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.Principal.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Security.SecureString.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Text.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Text.RegularExpressions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.Overlapped.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.Tasks.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.Thread.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.ThreadPool.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Threading.Timer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ValueTuple.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.XPath.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Remotion.Linq.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Buffers.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.Immutable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Interactive.Async.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Memory.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Numerics.Vectors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\Remotion.Linq.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Buffers.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Collections.Immutable.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Interactive.Async.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Memory.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\bin\System.Numerics.Vectors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.addIdTypeOfUser.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.migracija1.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.paypalmig.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.paypalmig2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.mi.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.mi22.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.rowVersionForTransaction.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.forTransaction.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.idtypeoftiicket.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master\WebApp\obj\Debug\WebApp.Migrations.idtypeoftiicket2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\WebApp.dll.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\WebApp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\WebApp.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csc.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csc.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csi.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\csi.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\vbc.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\netstandard.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.AppContext.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.Concurrent.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.NonGeneric.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.Specialized.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ComponentModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Console.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Data.Common.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.Debug.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.Process.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.Tools.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Drawing.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Dynamic.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Globalization.Calendars.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Globalization.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Globalization.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.Compression.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.FileSystem.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.Pipes.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Linq.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Linq.Expressions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Linq.Parallel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Linq.Queryable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Http.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.NameResolution.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.NetworkInformation.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Ping.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Requests.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Security.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Sockets.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.WebSockets.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ObjectModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Reflection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Reflection.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Reflection.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Resources.Reader.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Resources.ResourceManager.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Resources.Writer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Handles.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.InteropServices.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Numerics.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Claims.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.Principal.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Security.SecureString.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Text.Encoding.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Text.RegularExpressions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.Overlapped.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.Tasks.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.Thread.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.ThreadPool.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Threading.Timer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ValueTuple.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.XmlDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.XPath.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\EntityFramework.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Remotion.Linq.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Buffers.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.Immutable.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Interactive.Async.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Memory.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Numerics.Vectors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Razor.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Thinktecture.IdentityModel.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Unity.Abstractions.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Unity.Container.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\WebActivatorEx.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\WebGrease.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Remotion.Linq.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Buffers.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Collections.Immutable.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Interactive.Async.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Memory.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Numerics.Vectors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Razor.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Thinktecture.IdentityModel.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Unity.Abstractions.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Unity.Container.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\EntityFramework.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.ajmsrecomoja.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.mig.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.migracija.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.pass.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.sara.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.emailmigr.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.mig1.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.timeissuedbt.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addVerficationStatusinAppUser.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addVerficationStatusinAppUser2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addCheckInTicket.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addNonBaseTickets.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addNonBaseTickets2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.typeofpassanger.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.addIdTypeOfUser.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.migracija1.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.paypalmig.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.paypalmig2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.mi.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.mi22.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.rowVersionForTransaction.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.forTransaction.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.idtypeoftiicket.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.Migrations.idtypeoftiicket2.resources
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.dll
+C:\Users\Jelena\Downloads\Web2_JGSP-master - Copy\WebApp\obj\Debug\WebApp.pdb

@@ -1,0 +1,42 @@
+<div>
+  <div id="mapCanvas">
+<p>
+<!-- Kreiramo mapu -->
+<agm-map *ngIf="selectedLine!=null"[latitude]="45.242268" [longitude]="19.842954" [zoom]="18">  
+
+  <agm-marker *ngFor="let station of stations" [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y" >
+
+    <!-- Svakom markeru dodajemo info-window (Nije obavezno!)-->
+    <agm-info-window [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y" >
+
+      <!-- U info-window stavljamo html -->
+      <span style="font-size: 16px;font-family:'Times New Roman'">{{station.Name}}</span>
+      <br/>
+      <span style="font-family:'Times New Roman'; color:gray;">{{station.Address}}</span>
+      <br>
+     
+    </agm-info-window>
+  </agm-marker>
+
+  <agm-polyline [strokeColor]="blue">
+    <agm-polyline-point *ngFor="let station of stationsArray" [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y">
+    </agm-polyline-point>
+</agm-polyline>
+    <agm-marker [iconUrl]="icon"  [latitude]="stationBus.Coordinate.X" [longitude]="stationBus.Coordinate.Y">
+      </agm-marker>
+</agm-map>
+</p>
+</div>
+<!-- <div class="col-sm-6" style="float: right;"> -->
+<div>
+<br>
+Select line<br>
+<select class="form-control" [(ngModel)]="selectedLine">
+  <option *ngFor="let line of lines" [ngValue]="line">
+    {{line.LineNumber}}
+  </option>
+</select>
+<br>
+<button class="btn btn-secondary" (click)="showLine()" [disabled]="selectedLine==null">Show Line</button>
+</div>
+</div>

@@ -1,0 +1,55 @@
+<div>
+  <p>
+    <!-- Kreiramo mapu -->
+    <agm-map [latitude]="45.242268" [longitude]="19.842954" [zoom]="18" (mapClick)="placeMarker($event)">  
+  
+        <agm-marker *ngFor="let station of stations"  [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y" [iconUrl]="imageUrl">
+
+            <!-- Svakom markeru dodajemo info-window (Nije obavezno!)-->
+            <agm-info-window [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y" >
+  
+              <!-- U info-window stavljamo html -->
+              <span style="font-size: 16px;font-family:'Times New Roman'"><button (click)="DeleteStation(station)">Delete</button><button data-toggle="collapse" href="#update" (click)="Update(station)">Update</button><br><label>Station Name:</label>{{station.Name}}</span>
+              <br/>
+              <span style="font-family:'Times New Roman'; color:gray;"><label>Station Address:</label>{{station.Address}}</span>
+              <br>
+            </agm-info-window>
+          </agm-marker>
+  
+          <agm-marker *ngFor="let point of polyline.path" [latitude]="point.latitude" [longitude]="point.longitude" [iconUrl]="polyline.icon">
+            </agm-marker>
+    </agm-map>
+  </p>
+</div>
+<div id="add-station">
+    <form [formGroup]="addStationForm" (ngSubmit)="SubmitStation($event)">
+      <h2> Add station form </h2>
+        <div class="form-group">
+          <label>Naziv:</label>
+          <input type="text" class="form-control" formControlName="name" placeholder="Unesi naziv">
+        </div>
+        <div class="form-group">
+          <label>Adresa:</label>
+          <input type="text" class="form-control" formControlName="address" placeholder="Unesi adresu">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      {{message}}
+</div>
+
+<div class="jumbotron" id="update" class="collapse" >
+    <h2> Update Form </h2>
+    <form [formGroup]="updateForm" (ngSubmit)="UpdateSubmit()">
+        <label>
+            Name:
+          </label>
+            <input mdInput type="text" formControlName="Name" [(ngModel)]="selectedstation.Name">
+          <input mdInput type="text" hidden="true" formControlName="Id" [(ngModel)]="selectedstation.Id">
+  
+          <label>
+              Address:
+            </label>
+              <input mdInput type="text" formControlName="Address" [(ngModel)]="selectedstation.Address">
+         <button type="submit" >Update</button>
+      </form>
+    </div>

@@ -1,0 +1,52 @@
+<h2 align="center">PRICELIST</h2>
+<hr>
+<form [formGroup]="pricelistform" (ngSubmit)="findPassenger()">
+    <table align="center" border="1">
+       <tr>
+          <th>Type of Card:</th>
+          <td>
+              <select formControlName="card">
+                  <option *ngFor="let item of TypeCard" [value] = "item.name">{{item.name}}</option>
+              </select>
+          </td>
+        </tr>
+        <tr>
+            <th>Type of Passenger:</th>
+            <td>
+                <select formControlName="passenger">
+                    <option *ngFor="let item of TypePassenger" [value] = "item.name">{{item.name}}</option>
+                </select>
+            </td>
+          </tr>
+        <tr>
+        <th colspan="2"><button style="background: yellow" type="submit">Show</button></th>
+        </tr>
+    </table>
+</form>
+      <hr>
+<table class="table table-dark">
+    <thead>
+      <tr>
+        <th scope="col">Price</th>
+        <th scope="col">From</th>
+        <th scope="col">To</th>
+        <th scope="col">Buy</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let priceList of priceListsShow">
+            <td>{{priceList.TicketPrice}}</td>
+            <!-- <ng-container *ngFor="let tt of tickets; let i=index" >
+                <td *ngIf="priceList.TicketTypeId == tt.Id">{{tt.Name}}</td>
+            </ng-container> -->
+                <td>{{priceList.From}}</td>
+                <td>{{priceList.To}}</td>
+                <td *ngIf="!OneHourCardOnly"><button (click)="buyTicket(priceList)">Buy Ticket </button></td>
+                <td *ngIf="OneHourCardOnly"><button routerLink="/buyTicket">Buy 1Hour Ticket</button></td>
+        </tr> 
+    </tbody>
+  </table>
+  <div class="jumbotron">
+  <h2 style="color: yellow"> PayPal shopping </h2>
+  <div class="row justify-content-center text-center mb-3" id="paypal-checkout-btn"></div>
+  </div>

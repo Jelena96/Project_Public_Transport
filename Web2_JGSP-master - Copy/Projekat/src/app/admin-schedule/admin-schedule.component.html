@@ -1,0 +1,74 @@
+<table mdbTable border="2" small="true"> 
+    <thead>
+        <tr>
+          <th>Id</th>
+          <th>Departure</th>
+          <th>LineId</th>
+          <th>DayInWeek</th>
+        </tr>
+      </thead>
+
+  <tbody>
+    <tr mdbTableCol *ngFor="let el of schedules">
+      <th scope="row">{{el.Id}}</th>
+      <td>{{el.Departure}}</td>
+      <td>{{el.LineId}}</td>
+      <td>{{el.DayInWeek}}</td>
+      <td><button (click)="Update(el)" data-toggle="collapse" href="#update">Update</button>
+      <td><button type="button" (click)="Delete(el)" >Delete</button>
+
+    </tr>
+  </tbody>
+</table>
+
+<button data-toggle="collapse" href="#add"> Add Schedule</button>
+
+<div *ngIf="kk" class="jumbotron" id="update" class="collapse" >
+  <h2> Update Form </h2>
+  <form [formGroup]="updateForm" (ngSubmit)="UpdateSubmit()">
+      <label>
+          Line Id:
+          <input mdInput type="text" formControlName="LineId" [(ngModel)]="selectedschedule.LineId">
+        </label>
+        <input mdInput type="text" hidden="true" formControlName="Id" [(ngModel)]="selectedschedule.Id">
+
+        <label>
+            Departure:
+            <input mdInput type="text" formControlName="Departure" [(ngModel)]="selectedschedule.Departure">
+          </label>
+       <button type="submit" >Update</button>
+    </form>
+  </div>
+
+  <div id="add" class="collapse" >
+      <form [formGroup]="addForm" (ngSubmit)="AddSubmit()">
+          <label>
+              Line Id:
+            </label>
+
+              <input mdInput type="text" formControlName="lineId" [(ngModel)]="scheduleAdd.LineId" >
+            <label>
+              Day In Week:
+            </label>
+
+              <select formControlName="day" [(ngModel)]="scheduleAdd.DayInWeek">
+                  <option *ngFor="let item of TypeDay" [value] = "item.name">{{item.name}}</option>
+              </select>
+              <label>
+                Type Of Line:
+              </label>
+
+                  <select formControlName="typeOfLine">
+                      <option *ngFor="let item of TypeLine" [value] = "item.name">{{item.name}}</option>
+          
+                  </select>
+            <label>
+                Departure:
+              </label>
+
+                <input mdInput type="text" formControlName="departure" [(ngModel)]="scheduleAdd.Departure">
+           <button type="submit" >Add</button>
+           <!-- placeholder="{{departure}}" -->
+        </form>
+      </div>
+    

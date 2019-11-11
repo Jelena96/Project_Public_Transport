@@ -1,0 +1,79 @@
+<html>
+  <body body bgcolor="#E6E6FA">
+<div id="mapCanvas">
+  <p>
+    <!-- Kreiramo mapu -->
+    <agm-map [latitude]="45.242268" [longitude]="19.842954" [zoom]="18" (mapClick)="placeMarker($event)">  
+  
+      <agm-marker *ngFor="let station of stations" (markerClick)="addStation(station)" [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y" [iconUrl]="imageUrl">
+      </agm-marker>
+      <agm-marker (markerClick)="addStation(station)" [latitude]="latitude" [longitude]="longitude" [iconUrl]="imageUrl">
+      </agm-marker>
+      <agm-polyline [strokeColor]="blue">
+        <agm-polyline-point *ngFor="let station of stationsArray" [latitude]="station.Coordinate.X" [longitude]="station.Coordinate.Y">
+        </agm-polyline-point>
+      </agm-polyline>
+
+    </agm-map>
+  </p>
+</div>
+<div id="add-line" class="container">
+    <form [formGroup]="addLinesForm" (ngSubmit)="SubmitLine($event)">
+        <label>Line Number:
+          <input type="text" class="form-control" formControlName="number" placeholder="Unesi broj linije">
+        </label> 
+        <div>
+          <label>
+            Type Of Line:
+            <select formControlName="typelines">
+                <option *ngFor="let item of TypeLine">{{item.name}}</option>
+            </select>
+          </label>
+       </div>
+        <hr>
+        <button type="submit" class="btn btn-warning">Add Line</button>
+      </form>
+</div>
+
+
+<div class="container" class="col-sm-9">
+
+    <label>Select line:</label><br>
+    <select class="form-control" style="width: 20%;" [(ngModel)]="selectedLine">
+      <option *ngFor="let line of lines2" [ngValue]="line">
+        {{line.LineNumber}}
+      </option>
+    </select>
+    <hr>
+    
+    <button class="btn btn-warning" type="button" data-toggle="collapse" href="#update">Change line </button>
+  
+    <button class="btn btn-warning" type="button" (click) = "DeleteLine()" data-toggle="collapse">Delete line</button>
+  
+
+    <!-- <button class="btn btn-secondary" (click)="showLine()" [disabled]="selectedLine==null">Prikazi</button> -->
+    </div>
+   
+
+        <div id="update" class="collapse" >
+            <form [formGroup]="updateForm" (ngSubmit)="ChangeLine()">
+                <label>
+                  Line Number:
+                    <input mdInput type="text"  formControlName="LineNumber" [(ngModel)]="selectedLine.LineNumber">
+                  </label>
+          
+                  <label>
+                    Type Of Line:
+                      <input mdInput type="text" class="form-control" formControlName="TypeOfLine" [(ngModel)]="selectedLine.TypeOfLine">
+                    </label>
+                 <button type="submit" >Update</button>
+                 <!-- placeholder="{{departure}}" -->
+              </form>
+           
+            </div>
+
+<div>
+  <h4>   {{message}}</h4>
+  </div>
+</body>
+  </html>

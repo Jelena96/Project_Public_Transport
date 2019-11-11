@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Forma za registraciju</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Forma za registraciju</h2>
+  
+      <form [formGroup]="registrationForm" (ngSubmit)="Registrate()">
+          <label>
+              Ime:
+              <input mdInput type="text" formControlName="ime" placeholder="Unesite ime">
+            </label><br>
+            <label> 
+                Prezime:
+                <input mdInput type="text" formControlName="prezime" placeholder="Unesite prezime">
+              </label><br>
+              <label>
+                      Adresa:
+                      <input mdInput type="text" formControlName="adresa" placeholder="Unesite adresu">
+                    </label><br>
+                    <label>
+                  Datum rodjenja:
+                  <form>
+                  <input mdInput type="date" [(ngModel)]="Students.dob" name="Students.dob" placeholder="Unesite datum rodjenja">
+                  </form>
+                </label><br>
+                <label>
+                    Email:
+                    <input mdInput type="email" formControlName="email" placeholder="Unesite email">
+                  </label><br>
+                  <label>
+                      Lozinka:
+                      <input mdInput type="password" formControlName="password" placeholder="Unesite lozinku">
+                    </label><br>
+                    <label>
+                        Lozinka:
+                        <input mdInput type="password" formControlName="password2" placeholder="Potvrdite lozinku">
+                      </label><br>
+            <label>
+              Tip putnika:
+              <select formControlName="pass">
+                  <option *ngFor="let item of PassType" [value] = "item.name">{{item.name}}</option>
+              </select>
+              </label><br>
+              <th>Choose image:<input type="file" id="filePicker" (change)="handleFileSelect($event)"></th>
+              <button type="submit">Register</button>
+           
+        </form>
+
+
+        <!-- <form action="/action_page.php">
+    <div class="form-group"> -->
+      <!-- <label for="ime">Ime:</label>
+      <input type="text" class="form-control"  placeholder="Unesite ime" name="ime"> -->
+      <!-- <label for="prezime">Prezime:</label>
+      <input type="text" class="form-control"  placeholder="Unesite prezime" name="prezime">
+      <label for="datum">Datum rodjenja:</label>
+      <input type="date" class="form-control" name="datum">
+      <label for="add">Adresa:</label>
+      <input type="text" class="form-control"  placeholder="Unesite adresu" name="add">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control"  placeholder="Unesite email" name="email">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control"  placeholder="Unesite password" name="pwd"> -->
+      <!-- 
+      <label class="col-sm-2 col-form-label" for="pt">Tip putnika:</label>
+       <select formControlName="pass" (change)="typePassSelected()">
+           <option *ngFor="let item of PassType" [value] = "item.name">{{item.name}}</option>
+       </select>
+
+      <label class="col-sm-2 col-form-label" for="tt">Tip karte: </label> 
+       <select formControlName="tick" (change)="typeTickSelected()">
+           <option *ngFor="let item of TickType" [value] = "item.name">{{item.name}}</option>
+       </select>
+    </div> -->
+    <!-- </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form> -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+<table mdbTable border="2" small="true"> 
+    <thead>
+        <tr>
+          <th>Id</th>
+          <th>From</th>
+          <th>To</th>
+          <th>TypeOfTicket</th>
+          <th>TypeOfPassenger</th>
+          <th>CurrentValid</th>
+          <th>TicketPrice</th>
+
+        </tr>
+      </thead>
+
+  <tbody>
+    <tr mdbTableCol *ngFor="let el of priceLists">
+      <th scope="row">{{el.Id}}</th>
+      <td>{{el.From}}</td>
+      <td>{{el.To}}</td>
+      <td>{{el.TicketTypeId}}</td>
+      <td>{{el.PassengerTypeId}}</td>
+      <td>{{el.CurrentValid}}</td>
+      <td>{{el.TicketPrice}}</td>
+      <td><button (click)="Update(el)" data-toggle="collapse" href="#update">Update</button>
+      <td><button type="button" (click)="Delete(el)" >Delete</button>
+
+    </tr>
+  </tbody>
+</table>
+
+<div class="jumbotron" id="update" class="collapse" >
+    <h2> Update Form </h2>
+    <form [formGroup]="updateForm" (ngSubmit)="UpdateSubmit()">
+        <label>
+            From:
+            <input mdInput type="text" formControlName="From" [(ngModel)]="newPriceList.From">
+          </label>
+          <label>
+            To:
+          <input mdInput type="text" formControlName="To" [(ngModel)]="newPriceList.To">
+            </label>
+          <label>
+              TicketTypeId:
+              <input mdInput type="text" formControlName="TicketTypeId" [(ngModel)]="newPriceList.TicketTypeId">
+            </label>
+            <label>
+                PassengerTypeId:
+                <input mdInput type="text" formControlName="PassengerTypeId" [(ngModel)]="newPriceList.PassengerTypeId">
+              </label>
+              <label>
+                  TicketPrice:
+                  <input mdInput type="text" formControlName="TicketPrice" [(ngModel)]="newPriceList.TicketPrice">
+                </label>
+                <input mdInput type="text" hidden="true" formControlName="Id" [(ngModel)]="newPriceList.Id">
+                <label>
+                    CurrentValid:
+                    <input mdInput type="text" formControlName="CurrentValid" [(ngModel)]="newPriceList.CurrentValid">
+                  </label>
+         <button type="submit" >Update</button>
+      </form>
+    </div>
+
+<div class="jumbotron" id="skl"  >
+  <form [formGroup]="sklForm" (ngSubmit)="AddSubmit()">
+     <h2>Add pricelist form</h2>
+      <label>
+            Type of Ticket:
+          </label>
+        <select formControlName="ticket">
+          <option *ngFor="let item of TicketType" [value] = "item.name">{{item.name}}</option>
+        </select>
+          <label>
+          Type of Passenger:
+        </label>
+              <select formControlName="passenger">
+                  <option *ngFor="let item of PassengerType" [value] = "item.name">{{item.name}}</option>
+              </select>
+          <label>
+            Base Price:
+          </label>
+          <input type="text" formControlName="basePrice" />
+            <label>
+              Discount:
+            </label>
+            <input type="text" formControlName="discount" />
+              <form>
+              <label>
+                From:
+              </label>
+            <input type="date" [(ngModel)]="Students.dob" name="Students.dob"/>
+            </form>
+            <form>
+            <label>
+              To:
+            </label>
+            <input type="date" [(ngModel)]="Students.dob2" name="Students.dob2"/>
+            </form>     
+       <button type="submit" >Add</button>
+    </form>
+  </div>

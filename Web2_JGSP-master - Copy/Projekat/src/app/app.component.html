@@ -1,0 +1,67 @@
+
+<app-header></app-header>
+<div style="background-color: rgb(201, 162, 116); height: calc(150vh);">
+<div class="jumbotron" style="background-color: rgb(201, 162, 116); height: calc(150vh);">
+ 
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="assets/images/slika.jpg" alt="city"/>
+        <div class="carousel-caption">
+          <h1>PUBLIC TRANSPORT</h1>
+        </div> 
+      </div>
+     
+  </div>
+  
+  <div class="jumbotron" id="myCarousel"  class="carousel slide" data-ride="carousel">
+     
+      <div class="row">
+          <div class="col-sm-2">
+              <p><strong>Profile</strong></p>
+                     <a routerLink="/userProfile" data-toggle="collapse">
+                     <img src="assets/images/profile2.jpg" height="200px" style="border-radius: 50%" width="200px" class="img-circle person" alt="Random Name">
+                  </a>
+        </div>
+          <div class="col-sm-2">
+            <p class="text-center"><strong>Schedule</strong></p><br>
+            <a routerLink="/schedule" data-toggle="collapse">
+              <img src="assets/images/bus.jpg" height="200px" style="border-radius: 50%" width="200px" class="img-circle person" alt="Random Name">
+            </a>
+            </div>
+           
+          <div class="col-sm-2">
+            <p class="text-center"><strong>Buy Ticket</strong></p><br>
+            <a routerLink="/buyTicket" data-toggle="collapse">
+              <img src="assets/images/ticket.png" class="img-circle person" style="border-radius: 50%" alt="Random Name">
+            </a>
+          </div>
+              <div class="col-sm-2">
+                  <p class="text-center"><strong>Pricelist</strong></p><br>
+                  <a routerLink="/priceListUser" data-toggle="collapse">
+                    <img src="assets/images/priceList.png" height="200px" style="border-radius: 50%" width="200px" class="img-circle person" alt="Random Name">
+                  </a>
+            </div>   
+        
+          <div class="col-sm-2">
+            <p><strong>Bus Network</strong></p>
+             <a routerLink="/userlines" data-toggle="collapse">
+             <img src="assets/images/busic.png" height="200px" style="border-radius: 50%" width="200px" class="img-circle person" alt="Random Name">
+             </a>
+        </div>
+      
+</div>
+<router-outlet></router-outlet>
+<br/>
+<label>
+    <!-- <button (click)="logout()" routeLink="/login">Logout</button> -->
+    <a (click)="logout()" routerLink="/login">
+      <img src="assets/images/logout.jpg" height="200px" style="border-radius: 50%" width="200px" class="img-circle person" alt="Random Name">
+      </a>
+</label> 
+
+</div>
+<br/>
+  
+
+

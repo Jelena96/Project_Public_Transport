@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Profile </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<hr>
+
+<form [formGroup]="updateUserForm" (ngSubmit)="update()" enctype="multipart/form-data" >
+<table align="center" border='1'>
+    <tr>
+      <th>First name:</th>
+      <td><input type="text" formControlName="FirstName" required placeholder="eg. John"/></td>
+    </tr>
+    <tr>
+      <th>Last name:</th>
+      <td><input type="text" formControlName="LastName" required placeholder="eg. Mark"/></td>
+    </tr>
+     <tr>
+        <th>Email:</th>
+        <td>{{regUser.Email}}</td>
+      </tr>
+      <tr>
+          <th>Birth date:</th>
+          <td>{{regUser.BirthDate}}</td>
+        </tr>
+        <tr>
+            <th>Address:</th>
+            <td><input type="text" formControlName="Address" required placeholder="eg. Street 88"/></td>
+          </tr>
+          <tr>
+              <th>Verification status:</th>
+              <td>{{regUser.VerificationStatus}}</td>
+            </tr>
+        <tr *ngIf="!IsRegular">
+              <th>Promeni/Izaberi sliku<input type="file" id="filePicker" (change)="handleFileSelect($event)"></th>
+              <td><img style="max-height: 100px; max-width: 100px;" [src]="mySrc" /></td>
+        </tr>
+        <tr>
+          <td colspan="2"><button type="submit"   [disabled]="!updateUserForm.valid">Update</button></td>
+        </tr>
+  </table>
+</form>
+</body>
+</html>
